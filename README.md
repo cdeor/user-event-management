@@ -1,0 +1,1 @@
+Simple User Management application to experiment with events.
